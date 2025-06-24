@@ -9,6 +9,6 @@ for i in range(num):
     result += int(price) * int(stock)
 
 if result == total:
-    print("YES")
+    print("Yes")
 else:
-    print("NO")
+    print("No")
